@@ -4,6 +4,7 @@ notepad but with markdown so i can take good notes when i need it on my windows 
 
 
 ## need
+- [ ] open with shortcut (left alt + right alt)
 - [ ] autosave
 - [ ] command pallette
 - [ ] tab switching
