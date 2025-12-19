@@ -1,10 +1,14 @@
 # markpad
 
+notepad but with markdown so i can take good notes when i need it on my windows machine
+
+
 ## need
 - [ ] autosave
 - [ ] command pallette
 - [ ] tab switching
 - [ ] keyboard shortcuts
+- [ ] AI so VCs can start drooling
 
 ## resources
 
